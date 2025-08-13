@@ -52,5 +52,8 @@ node sssp.js --no-log
 ## References
 - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033v2)
 
+## Next Steps
+I will continue studying, understanding, and refining the algorithm.
+
 ## License
 This project is licensed under the MIT License.
