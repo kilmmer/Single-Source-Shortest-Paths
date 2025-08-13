@@ -16,12 +16,9 @@ The SSSP algorithm computes the shortest paths from a single source vertex to al
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kilmmer/Single-Source-Shortest-Paths
    ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+2. No dependencies are required for this project.
 
 ### Running the Algorithm
 1. Define a graph:
@@ -57,4 +54,3 @@ node sssp.js --no-log
 
 ## License
 This project is licensed under the MIT License.
-****
